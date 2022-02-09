@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "HKM2005 YÊU BÉ Ý NHIều :333!!!",
-    introTitle: ' Em bé yêu dấu của anh',
+    introTitle: ' Em bé Ý yêu dấu của anh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
